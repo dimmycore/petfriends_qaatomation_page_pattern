@@ -1,1 +1,1 @@
-# petfriends_qaatomation_page_pattern
+# petfriends_qa_atomation_page_pattern
